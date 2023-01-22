@@ -1,0 +1,134 @@
+* {
+    margin: auto;
+    padding: 0px;
+    color: black;
+}
+
+#conteiner {
+    border: 1px solid rgb(255, 255, 255);
+    width: 320px;
+    height: auto;
+}
+
+.header-pagina {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+
+}
+
+#header-pagina {
+    padding: 5px;
+
+    margin: 2px;
+    height: 25px;
+
+}
+
+.logo {
+
+    width: 105px;
+    display: flex;
+    display: flex;
+    align-items: center;
+
+}
+
+.pesquisar {
+    text-align: end;
+    width: 115px;
+}
+
+.alert {
+    width: 55px;
+    text-align: center;
+}
+
+#moments {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.conteiner-moments {
+    padding: 10px;
+}
+
+.conteiner-moments img {
+    width: 50px;
+    border-radius: 50px;
+    border: 2px solid green;
+}
+
+#header-perfil {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    width: 150px;
+}
+.perfil-feed {
+    width: 25px;
+}
+
+.perfil-feed img {
+    border-radius: 20px;
+}
+
+.imagens {
+    padding: 10px;
+}
+
+.imagens img {
+    width: 300px;
+}
+
+.reacoes {
+    display: flex;
+
+    padding: 5px;
+}
+
+.reacoes div img {
+    margin-left: 10px;
+}
+
+.curtida {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.curtida span {
+    margin-left: 10px;
+
+}
+
+.comentario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.comentario span {
+    margin-left: 10px;
+
+}
+
+.legenda h5 {
+    padding: 10px;
+}
+
+.expandir-comentaarios {
+    color: blueviolet;
+    padding: 10px;
+}
+
+
+
+
