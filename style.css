@@ -29,7 +29,7 @@
 
 .logo {
 
-    width: 105px;
+    width: 90px;
     display: flex;
     display: flex;
     align-items: center;
@@ -38,11 +38,11 @@
 
 .pesquisar {
     text-align: end;
-    width: 115px;
+    width: 100px;
 }
 
 .alert {
-    width: 55px;
+    width: 45px;
     text-align: center;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .conteiner-moments {
-    padding: 10px;
+    padding: 2px;
 }
 
 .conteiner-moments img {
@@ -126,7 +126,7 @@
 
 .expandir-comentaarios {
     color: blueviolet;
-    padding: 10px;
+    padding: 50px;
 }
 
 
